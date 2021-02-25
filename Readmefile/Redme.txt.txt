@@ -1,0 +1,20 @@
+SIMP. FUN - UNO
+
+Hovedmenuen
+Hovedemnuen er der hvor du starter, når du åbner spillet op.
+Her har du forskellige muligheder, du kan enten gå ind i et spil, ved at trykke på "Deltag i spil", gå ind på indstillinger, ved at trykke "Indstillinger" eller lukke -
+spillet, ved at trykke på "Luk spillet",
+
+Spillet
+Spillet er det klassike uno kortspil.
+Man starter spillet, ved at trykke på "Deltag i spil".
+Herefter5 kommer man ind i spillet, hvor man spiller imod en computer.
+Hver spiller starter med 5 kort på hånden.
+Man ligger et kort ved, at klikke på det i hånden. Man kan ligge samme farve ovenpå hinanden, og samme tal.
+Man kan desværre ikke ligge flere samtidig. Hvis man ikke kan ligge noget, kan man ende sin tur ved at trække et kort. 
+Det kan man gøre ved at trykke på bunken, som er placeret med bagsiden opad. Den første, som kommer af med alle sine kort vinder.
+Når man vinder, så bliver man sendt tilbage til hovedmenuen.
+
+Indstillinger
+I indstillinger har du mulighed for at justere lydstyrket i spillet. Der er dog ikke noget lyd i selve spillet på nuværende tidspunkt.
+Men funktionen er der for at vise, at det ville være.
